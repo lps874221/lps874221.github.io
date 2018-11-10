@@ -1,5 +1,6 @@
+具体信息都可以动态修改
 ## Welcome to GitHub Pages
-
+666666
 You can use the [editor on GitHub](https://github.com/lps874221/lps874221.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
